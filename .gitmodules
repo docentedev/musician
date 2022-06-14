@@ -1,0 +1,9 @@
+[submodule "musician-api"]
+	path = musician-api
+	url = https://github.com/docentedev/musician-api.git
+[submodule "musician-next-app"]
+	path = musician-next-app
+	url = https://github.com/docentedev/musician-next-app.git
+[submodule "musician-native-app"]
+	path = musician-native-app
+	url = https://github.com/docentedev/musician-native-app.git
