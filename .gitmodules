@@ -7,3 +7,6 @@
 [submodule "musician-native-app"]
 	path = musician-native-app
 	url = https://github.com/docentedev/musician-native-app.git
+[submodule "musicianapiauth"]
+	path = musicianapiauth
+	url = https://github.com/docentedev/musician-api-auth.git
